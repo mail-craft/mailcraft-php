@@ -1,5 +1,5 @@
 {
-    "name": "mailcraft/mailcraft-php",
+    "name": "mail-craft/mailcraft-php",
     "description": "Official PHP SDK for the MailCraft email API — transactional email, SMTP relay, marketing campaigns, automations, and contact management.",
     "version": "0.1.0",
     "type": "library",

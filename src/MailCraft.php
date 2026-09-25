@@ -87,7 +87,7 @@ final class MailCraft
      * addition to the normal property access (`$mailcraft->emails`).
      *
      * Property access is the idiomatic way to use this SDK directly; this
-     * exists so `mailcraft/laravel`'s Facade — which can only forward
+    * exists so `mail-craft/mailcraft-laravel`'s Facade — which can only forward
      * static *method* calls, not property reads — can expose the same
      * resources as `MailCraft::emails()->send(...)`.
      *

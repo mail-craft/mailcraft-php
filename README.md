@@ -1,13 +1,13 @@
-# mailcraft/mailcraft-php
+# mail-craft/mailcraft-php
 
 Official PHP SDK for the [MailCraft](https://mailcraft.host) email API — transactional email, SMTP relay, marketing campaigns, automations, and contact management for developers and AI agents.
 
-> Using Laravel? Use [`mailcraft/laravel`](https://github.com/mail-craft/mailcraft-laravel) instead — it wraps this package with a `Mail` transport, a facade, and config publishing.
+> Using Laravel? Use [`mail-craft/mailcraft-laravel`](https://github.com/mail-craft/mailcraft-laravel) instead — it wraps this package with a `Mail` transport, a facade, and config publishing.
 
 ## Install
 
 ```bash
-composer require mailcraft/mailcraft-php
+composer require mail-craft/mailcraft-php
 ```
 
 ## Usage
